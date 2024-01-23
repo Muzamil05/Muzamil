@@ -1,3 +1,9 @@
 # Muzamil
+<h1>Introduction</h1>
+<p>My name is Muzamil and I am a Student</p>
 
-#I am a Student
+<h2>Currently Learning:</h2>
+-JavaScript
+
+<h3>Skills:</h3>
+<p>C#</p>
