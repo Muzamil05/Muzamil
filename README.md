@@ -2,8 +2,8 @@
 <p>My name is Muzamil and I am a first year Software Engineering Student.</p>
 
 <h1>Currently Learning 👀</h1>
--Java
--Swift
+<p>-Java</p>
+<p>-Swift</p>
 
 <h1>Skills ✍️</h1>
 <p>-C#</p>
